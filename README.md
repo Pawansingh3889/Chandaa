@@ -2,6 +2,12 @@
 
 This repository hosts detailed PDF reports of the analysis conducted on electoral bonds data in India, visualized using Power BI. The analysis aims to uncover the patterns and insights from the data related to electoral bond donations to political parties.
 
+## Data Source
+
+This analysis utilizes publicly available data on electoral bonds provided by the Election Commission of India. The electoral bond scheme is a significant aspect of political financing in India, and the data offers insights into the financial contributions received by political parties.
+
+For comprehensive details and to explore the dataset, please visit the [Election Commission of India's Disclosure of Electoral Bonds](https://www.eci.gov.in/disclosure-of-electoral-bonds) page.
+
 ## Reports Description
 
 ### Chandaa - Power BI.pdf
